@@ -12,3 +12,5 @@ Platos Fuertes
 4. Bandeja Paisa:
 Arroz, chicharron, frijoles, carne molida, chorizo y guarapo
 
+ENSALADAS:
+Cesar, napolitana
