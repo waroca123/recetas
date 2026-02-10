@@ -10,3 +10,6 @@ Recetas agregadas:
 
 Postres Especiales:
 4. Flan casero - por prima Ana
+
+Platos fuertes:
+5. Paella valenciana - Por amigo Carlos
