@@ -13,3 +13,4 @@ Postres Especiales:
 
 Platos fuertes:
 5. Paella valenciana - Por amigo Carlos
+6.Bandeja paisa - Por walver
