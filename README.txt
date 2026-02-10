@@ -14,3 +14,6 @@ Arroz, chicharron, frijoles, carne molida, chorizo y guarapo
 
 ENSALADAS:
 Cesar, napolitana
+
+SOPAS:
+sopa de lentejas, sopa de frijoles, sopa montañera
