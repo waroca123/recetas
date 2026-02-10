@@ -9,6 +9,6 @@ Recetas agregadas:
 3. Tarta de manzana - por Mamá"
 
 Platos Fuertes
-4. Bandeja Paisa //Esta bien si trabajamos esta bandeja 
-5. Sudado de Pollo // o este plato
+4. Bandeja Paisa:
+Arroz, chicharron, frijoles, carne molida, chorizo y guarapo
 
