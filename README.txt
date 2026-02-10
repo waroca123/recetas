@@ -8,9 +8,3 @@ Recetas agregadas:
 2. Lasagna boloñesa - por Tío Juan
 3. Tarta de manzana - por Mamá"
 
-Postres Especiales:
-4. Flan casero - por prima Ana
-
-Platos fuertes:
-5. Paella valenciana - Por amigo Carlos
-6.Bandeja paisa - Por walver
