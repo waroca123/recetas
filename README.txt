@@ -14,3 +14,6 @@ Arroz, chicharron, frijoles, carne molida, chorizo y guarapo
 
 ENSALADAS:
 Cesar, napolitana
+
+CARNES:
+Punta de anca, Solomo, chicharron
